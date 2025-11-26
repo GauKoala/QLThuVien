@@ -71,17 +71,3 @@ The **Library Management System** comprehensive software solution designed to fa
 4. **History**: View book borrowing history and borrowed book status.
 
 ---
-
-## 📝 Creators
-
-### Hoang Khanh Chi: 
-- **Role**: Backend developer, Database designer, AI Enginner.
-- **Contact**:
-  - Email: khanhchi01005@gmail.com
-  - Facebook: https://www.facebook.com/khanh.chi.337840/
-### Nguyen Phuoc Nguong Long:
-- **Role**: Project analyst, Frontend developer, JUnit Developer.
-- **Contact**:
-    - Email: npnlong@gmail.com
-    - Facebook: https://www.facebook.com/LongNpn
----
